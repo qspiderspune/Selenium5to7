@@ -1,0 +1,7 @@
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.actitime.test.CreateCustomer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
